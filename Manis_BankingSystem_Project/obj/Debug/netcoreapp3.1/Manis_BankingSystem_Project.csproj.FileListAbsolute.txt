@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\bin\Debug\netcoreapp3.1\Manis_BankingSystem_Project.exe
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\bin\Debug\netcoreapp3.1\Manis_BankingSystem_Project.deps.json
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\bin\Debug\netcoreapp3.1\Manis_BankingSystem_Project.runtimeconfig.json
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\bin\Debug\netcoreapp3.1\Manis_BankingSystem_Project.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\bin\Debug\netcoreapp3.1\Manis_BankingSystem_Project.dll
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\bin\Debug\netcoreapp3.1\Manis_BankingSystem_Project.pdb
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\obj\Debug\netcoreapp3.1\Manis_BankingSystem_Project.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\obj\Debug\netcoreapp3.1\Manis_BankingSystem_Project.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\obj\Debug\netcoreapp3.1\Manis_BankingSystem_Project.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\obj\Debug\netcoreapp3.1\Manis_BankingSystem_Project.dll
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\obj\Debug\netcoreapp3.1\Manis_BankingSystem_Project.pdb
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\obj\Debug\netcoreapp3.1\Manis_BankingSystem_Project.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\obj\Debug\netcoreapp3.1\Manis_BankingSystem_Project.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\Manis_BankingSystem_Project\obj\Debug\netcoreapp3.1\Manis_BankingSystem_Project.GeneratedMSBuildEditorConfig.editorconfig
